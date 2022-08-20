@@ -17,7 +17,7 @@ function check(error){
 }
 
 app.get('/', (req, res) => {
-    res.send(' My First Node JS Project and Welcome to you!!')
+    res.send(' My First Node JS Project and Welcome to you!!,  Java Script 정복기!!! 날따라해봐요 요렇게~');
 })
 
 app.listen(port, () => {
